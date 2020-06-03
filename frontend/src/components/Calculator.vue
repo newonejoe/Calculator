@@ -52,7 +52,7 @@
 <script>
 import axios from 'axios';
 import Vue from 'vue'
-import VeeValidate from 'vee-validate'
+import * as VeeValidate from 'vee-validate'
 /* eslint-disable */
 Vue.use(VeeValidate)
 export default {
